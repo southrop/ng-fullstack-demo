@@ -1,0 +1,11 @@
+{
+  "generator-ng-fullstack": {
+    "username": "southrop",
+    "appName": "test",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng1",
+    "transpilerServer": "node",
+    "secure": true
+  }
+}
